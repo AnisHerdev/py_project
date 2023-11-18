@@ -1,4 +1,4 @@
 # py_project
-practising python
+Practising python
 
-learning python basic programming
+Learning python basic programming
