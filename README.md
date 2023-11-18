@@ -3,7 +3,8 @@ Practising python
 
 Learning python basic programming
 <hr>
-#Linux_file_permission_values.py
+<h1>File permission value:</h1>
+Linux_file_permission_values.py
 <p>This program can be used to calculate the permission values for linux based systems.</p>
 <p>-rwxr--r-- this shows the permissions of a particular file</p>
 Here,
