@@ -4,8 +4,8 @@ Practising python
 Learning python basic programming
 <hr>
 #Linux_file_permission_values.py
-This program can be used to calculate the permission values for linux based systems.
--rwxr--r-- this shows the permissions of a particular file
+<p>This program can be used to calculate the permission values for linux based systems.</p>
+<p>-rwxr--r-- this shows the permissions of a particular file</p>
 Here,
     [rwx] -> User
     [r--] -> Group
